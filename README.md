@@ -2,16 +2,6 @@
 
 Este projeto oferece um esquema de banco de dados e dados iniciais para um sistema de gerenciamento de manutenção, projetado para rastrear equipamentos, ordens de manutenção, técnicos e peças.
 
-## Sumário
-
-  * [Estrutura do Banco de Dados](https://www.google.com/search?q=%23estrutura-do-banco-de-dados)
-  * [Começando](https://www.google.com/search?q=%23come%C3%A7ando)
-      * [Pré-requisitos](https://www.google.com/search?q=%23pr%C3%A9-requisitos)
-      * [Instalação](https://www.google.com/search?q=%23instala%C3%A7%C3%A3o)
-  * [Consultando o Banco de Dados](https://www.google.com/search?q=%23consultando-o-banco-de-dados)
-  * [Contribuindo](https://www.google.com/search?q=%23contribuindo)
-  * [Licença](https://www.google.com/search?q=%23licen%C3%A7a)
-
 ## Estrutura do Banco de Dados
 
 O banco de dados `BalaJuquinha_DB` é composto pelas seguintes tabelas:
