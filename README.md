@@ -99,7 +99,3 @@ mysql -u seu_usuario -p BalaJuquinha_DB < Select_BalaJuquinha_DB.sql
 ## Contribuindo
 
 Sinta-se à vontade para fazer um fork deste repositório, sugerir melhorias ou enviar pull requests.
-
-## Licença
-
-Este projeto é de código aberto e está disponível sob a [Licença MIT](https://www.google.com/search?q=LICENSE).
